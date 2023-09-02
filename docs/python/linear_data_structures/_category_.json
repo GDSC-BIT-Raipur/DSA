@@ -1,0 +1,8 @@
+{
+  "label": "Linear Data Structures",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Linear data structures are data organization formats where data elements are arranged sequentially, and each element has a distinct predecessor and successor, except for the first and last elements. In other words, linear data structures represent a linear sequence of elements where each element is connected to its adjacent element(s)."
+  }
+}

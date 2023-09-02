@@ -4,7 +4,7 @@
 
 An array is a collection of items of same data type stored at contiguous memory locations. 
 
-![array_image](../../../graphics/array.png)
+<!-- ![array_image](../../../graphics/array.png) -->
 
 Sure, let's break down the concept of an array in simpler terms:
 
