@@ -84,20 +84,19 @@ print(find(array, search_key))
 - **Space Complexity:** Linear search doesn't require additional data structures, resulting in a space complexity of **O(1)**, indicating a constant memory usage.
 
 ### Advantages 
-    - Linear search can be used irrespective of whether the array is sorted or not. It can be used on arrays of any data type.
-    - Does not require any additional memory.
-    - It is a well-suited algorithm for small datasets.
+- Linear search can be used irrespective of whether the array is sorted or not. It can be used on arrays of any data type.
+- Does not require any additional memory.
+- It is a well-suited algorithm for small datasets.
 
 
 ### Disadvantages
-    - Linear search has a time complexity of O(N), which in turn makes it slow for large datasets.
-    - Not suitable for large arrays.
-
+- Linear search has a time complexity of O(N), which in turn makes it slow for large datasets.
+- Not suitable for large arrays.
 
 
 ### When to use ?
-    - When we are dealing with a small dataset.
-    - When you are searching for a dataset stored in contiguous memory.
+- When we are dealing with a small dataset.
+- When you are searching for a dataset stored in contiguous memory.
 
 
 
